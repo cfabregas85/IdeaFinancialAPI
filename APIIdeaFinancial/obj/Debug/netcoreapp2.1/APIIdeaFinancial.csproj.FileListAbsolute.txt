@@ -1,0 +1,14 @@
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\bin\Debug\netcoreapp2.1\APIIdeaFinancial.deps.json
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\bin\Debug\netcoreapp2.1\APIIdeaFinancial.runtimeconfig.json
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\bin\Debug\netcoreapp2.1\APIIdeaFinancial.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\bin\Debug\netcoreapp2.1\APIIdeaFinancial.dll
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\bin\Debug\netcoreapp2.1\APIIdeaFinancial.pdb
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.RazorAssemblyInfo.cache
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.RazorAssemblyInfo.cs
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.RazorTargetAssemblyInfo.cache
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.dll
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.pdb
+C:\Users\Carlos\source\repos\APIIdeaFinancial\APIIdeaFinancial\obj\Debug\netcoreapp2.1\APIIdeaFinancial.csprojAssemblyReference.cache
